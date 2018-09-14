@@ -1,16 +1,16 @@
 Package: usacloud
 Architecture: all
-Version: 0.14.2-1
+Version: 0.14.3-1
 Priority: extra
 Section: admin
 Maintainer: Kazumichi Yamamoto <yamamoto.febc@gmail.com>
-Installed-Size: 28367
-Filename: ./usacloud_0.14.2-1_all.deb
-Size: 5289968
-MD5sum: 910c8e977cb6ad4e3b92f40c82800abe
-SHA1: fc797993035155065a9c7662f85d6792fd28f4f1
-SHA256: 820dfef901151adfbee0a8af10f171fb4081b0557b063eead002eaceb41b466a
-SHA512: ed88b1e448c38ab652743b3d5afb52a84b83c538d5da31a0ee62e45a89242c78a25126726edbce38d6289ec8d6db18b6bb6056c92c76e0a88fb2a93c98293dec
+Installed-Size: 28371
+Filename: ./usacloud_0.14.3-1_all.deb
+Size: 5287792
+MD5sum: e76587a08ad9000860f5bc9d611c52cd
+SHA1: 0d94d351dea39e7639d5133a665f4cdf0bab486c
+SHA256: e64dd15e8213ff42b38e5c6355c724688d331e01b559104f1463cb5e03b36c83
+SHA512: d4593dd1ffd65bb987ef01f5c74163795f3f7e356e8ff63508acd0bfada3350d6d850de51c247b2f7e611cedaab2a1131ee6accc7f09110ccad830d4d0c204a0
 Homepage: https://github.com/sacloud/usacloud
 Description: usacloud
  CLI client of the SakuraCloud
